@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Why I Write"
+date: 2019-05-02
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+My view on writing is that, whether it’s a user manual or a fiction novel, the content must be accessible and easily usable for an intended audience. One of my favorite classes when I was earning my degree was Usability Testing, in which we conducted usability testing research on our university’s website and compiled reports with solutions for the vice chancellor. It was fascinating to analyze first-hand how users, undergrad and grad students, struggled or excelled at navigating the site and locating information. I’d love to be a part of the process of creating Amyx, Inc.’s technical content, collaborating with SMEs, developing courseware materials, and refining it all to meet the needs of the user audience.
